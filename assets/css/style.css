@@ -1,0 +1,16 @@
+body{
+    background-image:  linear-gradient(to right , rgba(0, 0, 0, 0.675) , rgba(0, 0, 0, 0.643) , rgba(0, 0, 0, 0.631) ) , url(../img/bg.jpg);
+    background-size: cover;
+
+}
+.welcome{
+    height: 100vh;
+}
+.signup {
+    height: 100vh;
+
+}
+.signin{
+    height: 100vh;
+  
+}
